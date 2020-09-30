@@ -18,5 +18,13 @@
   "bugs": {
     "url": "https://github.com/avirene/tic-tac-toe/issues"
   },
-  "homepage": "https://github.com/avirene/tic-tac-toe#readme"
+  "homepage": "https://github.com/avirene/tic-tac-toe#readme",
+  "devDependencies": {
+    "babel-loader": "^8.0.2",
+    "css-loader": "^1.0.0",
+    "style-loader": "^0.23.0",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
 }
